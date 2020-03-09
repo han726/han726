@@ -3,7 +3,7 @@ email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
 baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://blackrockdigital.github.io"
+url:                "https://han726.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
@@ -20,5 +20,5 @@ paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
-  - jekyll-paginate
+  - jekyll-paginatexx
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
