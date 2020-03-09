@@ -1,7 +1,11 @@
 ---
-title : "hi"
-categories:
-- Blog
+layout: post
+title: 첫포스팅
+category: test
+tags: [blog, jekyll, github.io]
 ---
 
-hihihihi
+#hi
+##hi
+###hi
+####hi
