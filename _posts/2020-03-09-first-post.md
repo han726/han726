@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 첫포스팅
-category: test
-tags: [blog, jekyll, github.io]
+title: A Trip
+categories: [blog, travel]
+tags: [hot, summer]
 ---
 
 #hi
